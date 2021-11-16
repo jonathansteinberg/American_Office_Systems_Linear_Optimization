@@ -4,4 +4,4 @@
 
 •	Coded variables, constraints, and an objective function and analyzed findings through visualizations and a sensitivity analysis
 
-•	Tools used; Python, Gurobi Solver
+•	Tools used: Python, Gurobi Solver
